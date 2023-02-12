@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkflasher_documentation=self.webpackChunkflasher_documentation||[]).push([[756],{3181:e=>{e.exports=JSON.parse('{"title":"User Guide","slug":"/category/user-guide","permalink":"/docs/category/user-guide","navigation":{"next":{"title":"Opening Flasher","permalink":"/docs/user-guide/opening_flasher"}}}')}}]);

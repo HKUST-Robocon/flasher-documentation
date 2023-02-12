@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkflasher_documentation=self.webpackChunkflasher_documentation||[]).push([[615],{7202:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/flasher-documentation/blog/tags/facebook","allTagsPath":"/flasher-documentation/blog/tags","count":1}')}}]);
