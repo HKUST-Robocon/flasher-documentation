@@ -21,5 +21,5 @@ This page provides guideline on installing the flasher into your computer.
 
 ## Windows
 
-1. Download the flasher from [here](google.com).
+1. Download the flasher from [here](https://www.google.com).
 2. Double click the downloaded installer, and follow the instruction to install it.
