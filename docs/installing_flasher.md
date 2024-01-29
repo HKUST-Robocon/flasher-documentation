@@ -21,7 +21,7 @@ This page provides guideline on installing the flasher into your computer.
 
 ## Windows
 
-1. Download the flasher from [here](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.1-application/flasher_installer_windows.exe).
+1. Download the flasher from [here](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.3-application/flasher_installer_windows.exe).
 2. Click the downloaded installer to open the `.exe` file
    ![](install-guide/windows-install/downloaded_exe.png)
 3. After the setup page pop out, click **Next**.
