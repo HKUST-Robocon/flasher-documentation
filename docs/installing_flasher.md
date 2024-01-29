@@ -5,7 +5,7 @@ This page provides guideline on installing the flasher into your computer.
 ## macOS
 
 1. Download the flasher from the below.
-   - [Apple Scilion](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.1-application/flasher_installer_apple_scilion.dmg)
+   - [Apple Scilion](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.3-application/flasher_installer_apple_scilion.dmg)
    - [Intel Chip](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.1-application/flasher_installer_apple_intel.dmg)
 2. Open the downloaded dmg.
 3. Drag the app icon to the application folder.
