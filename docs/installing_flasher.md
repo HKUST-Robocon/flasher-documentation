@@ -5,8 +5,8 @@ This page provides guideline on installing the flasher into your computer.
 ## macOS
 
 1. Download the flasher from the below.
-   - [Apple Scilion](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.4-application/flasher_installer_apple_scilion.dmg)
-   - [Intel Chip](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.1-application/flasher_installer_apple_intel.dmg)
+   - [Apple Scilion](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.5-application/flasher_installer_apple_scilion.dmg)
+   - [Intel Chip](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.1-application/flasher_installer_apple_intel.dmg) (Not in support)
 2. Open the downloaded dmg.
 3. Drag the app icon to the application folder.
 4. Open "Spotlight", and enter "terminal" to open the terminal app.
@@ -21,7 +21,7 @@ This page provides guideline on installing the flasher into your computer.
 
 ## Windows
 
-1. Download the flasher from [here](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.3-application/flasher_installer_windows.exe).
+1. Download the flasher from [here](https://github.com/HKUST-Robocon/robocon_flasher/releases/download/v1.0.5-application/flasher_installer_windows.exe).
 2. Click the downloaded installer to open the `.exe` file
    ![](install-guide/windows-install/downloaded_exe.png)
 3. After the setup page pop out, click **Next**.
